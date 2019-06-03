@@ -1,17 +1,17 @@
-# Title
+# Advanced-Topics-In-Data-Science
 
 ## Course Description
 
-Describe your course here. A short elevator pitch for the course. This will be listed as the course description in the course catalog.
+This course covers popular advanced machine learning and deep learning concepts including recommendation systems (RS) and Deep RS, Bayesian networks, probabilistic graphical models, natural language processing (NLP), LSTM neural networks, Generative Adversarial Networks (GANs), and advanced computer vision (Unet). Students complete individual comprehensive projects in one of the topic areas and present their findings in a seminar format.
 
-### Why you should know this (optional)
+### Why you should know this
 
-Explain why students should care to learn the material presented in this class.
+All of the models and algorithms learning in this course, are extensively use them. Also, students will choose one topic they like the most and dive deeper into it while learn all other topics from classes and classmates
 
 ## Prerequisites:  
 
-- [Prerequisite 1]()
-- [Prerequisite 2]()
+- [DS 2.2](https://github.com/Make-School-Courses/DS-2.2-Deep-Learning)
+
 
 ## Learning Outcomes
 
@@ -19,43 +19,17 @@ Explain why students should care to learn the material presented in this class.
 
 Students by the end of the course will be able to ...
 
-1. Identify & Describe
-1. Explain
-1. Compare & Contrast
-1. Design & Implement
-1. Practice
+1. Know what is Recommender System (RS) and mention different methodologies in RS
+1. Learn all components in NLP, including Bag-of-Word, TFIDF, Topic Modeling, Word2Vec
+1. Learn, build and have inference from a probabilistic graphical model
+1. Generate computer images from GANs
+1. Apply PageRank on defined Network
 
 ## Schedule
 
 **NOTE:** Due to the shorter summer sessions, for some class sessions you will see multiple topics covered. This is to ensure that we cover the same material that we normally would in non-summer terms.
 
----
-### **[INSTRUCTOR NOTE: PLEASE REMOVE THIS BEFORE MAY 27]**
-If you teach **M/W** or **Tu/Th**, please pick from a template below and delete the other one
 
----
-### M/W Template **[PLEASE REMOVE THIS HEADER BEFORE MAY 27]**
-**Course Dates:** Wednesday, May 29 – Wednesday, July 3, 2019 (6 weeks)
-
-**Class Times:** Monday and Wednesday at 3:30–5:20pm (11 class sessions)
-
-| Class |          Date          |                 Topics                  |
-|:-----:|:----------------------:|:---------------------------------------:|
-|  - |  Mon, May 27                         | **Memorial Day** |
-|  1 |  Wed, May 29                      | [Lesson 1] |
-|  2 |  Mon, June 3                         | [Lesson 2] |
-|  3 |  Wed, June 5                     | [Lesson 3] <br/> **/** <br/> [Lesson 4] |
-|  4 |  Mon, June 10                        | [Lesson 5] |
-|  5 |  Wed, June 12                     | [Lesson 6] |
-|  6 |  Mon, June 17                        | [Lesson 7] <br/> **/** <br/> [Lesson 8] |
-|  7 |  Wed, June 19                     | [Lesson 9] |
-|  8 |  Mon, June 24                        | [Lesson 10] <br/> **/** <br/> [Lesson 11] |
-| 9 |  Wed, June 26                        | [Lesson 12] |
-| 10 |  Mon, July 1                           | [Lesson 13] |  
-| 11 |  Wed, July 3                        | Final Exams/Presentations |
-
-
-### Tu/Th Template **[PLEASE REMOVE THIS HEADER BEFORE MAY 27]**
 **Course Dates:** Tuesday, May 28 – Tuesday, July 2, 2019 (6 weeks)
 
 **Class Times:** Tuesday and Thursday at 3:30–5:20pm (11 class sessions)
@@ -103,7 +77,7 @@ If you teach **M/W** or **Tu/Th**, please pick from a template below and delete 
 **[MAKE SPECIFIC TO YOUR COURSE SO IT IS SUPER CLEAR]**
 To pass this course you must meet the following requirements:
 
-- Complete all required assignments 
+- Complete all required assignments
 - Pass all projects according to the associated project rubric
 - Pass the final summative assessment according to the rubric as specified in this class
     - This will be further explained in the [study guide](ADD_STUDY_GUIDE_LNK)
