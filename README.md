@@ -15,15 +15,13 @@ All of the models and algorithms learning in this course, are extensively use th
 
 ## Learning Outcomes
 
-**[INSTRUCTOR NOTE: PLEASE LIST (5-8) LEARNING OUTCOMES]**
+By the end of this course, you will be able to ...
 
-Students by the end of the course will be able to ...
-
-1. Know what is Recommender System (RS) and mention different methodologies in RS
-1. Learn all components in NLP, including Bag-of-Word, TFIDF, Topic Modeling, Word2Vec
-1. Learn, build and have inference from a probabilistic graphical model
+1. Describe the Recommender System (RS) and the various methodologies in RS
+1. Understand all components in NLP, including Bag-of-Word, TFIDF, Topic Modeling, Word2Vec
+1. Learn, build, and gain inference from a probabilistic graphical model
 1. Generate computer images from GANs
-1. Apply PageRank on defined Network
+1. Apply PageRank on a defined Network
 
 ## Schedule
 
@@ -74,7 +72,6 @@ Students by the end of the course will be able to ...
     -   [Sample Project Rubric](Sample_Rubric.md)
 
 ## Evaluation
-**[MAKE SPECIFIC TO YOUR COURSE SO IT IS SUPER CLEAR]**
 To pass this course you must meet the following requirements:
 
 - Complete all required assignments
