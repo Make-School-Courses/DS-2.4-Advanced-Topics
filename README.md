@@ -72,7 +72,6 @@ By the end of this course, you will be able to ...
     -   [Sample Project Rubric](Sample_Rubric.md)
 
 ## Evaluation
-**[MAKE SPECIFIC TO YOUR COURSE SO IT IS SUPER CLEAR]**
 To pass this course you must meet the following requirements:
 
 - Complete all required assignments
