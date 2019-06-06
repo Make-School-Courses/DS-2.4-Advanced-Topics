@@ -34,26 +34,26 @@ By the end of this course, you will be able to ...
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
-|  1 |  Tu, May 28                        | [Lesson 1] |
-|  2 |  Th, May 30                       | [Lesson 2] |
-|  3 |  Tu, June 4                        | [Lesson 3] <br/> **/** <br/> [Lesson 4] |
-|  4 |  Th, June 6                      | [Lesson 5] |
-|  5 |  Tu, June 11                       | [Lesson 6] |
-|  6 |  Th, June 13                      | [Lesson 7] <br/> **/** <br/> [Lesson 8] |
-|  7 |  Tu, June 18                       | [Lesson 9] |
-|  8 |  Th, June 20                      | [Lesson 10] <br/> **/** <br/> [Lesson 11] |
-|  9 |  Tu, June 25                       | [Lesson 12] |
-| 10 |  Th, June 27                        | [Lesson 13] |
-| 11 |  Tu, July 2                       | Final Exams/Presentations |  
+|  1 |  Tu, May 28                        | [NLP Pt 1] |
+|  2 |  Th, May 30                       | [NLP Pt 2] |
+|  3 |  Tu, June 4                        | [Intro to Recommender Systems] |
+|  4 |  Th, June 6                      | [Deep Learning for Recommender Systems] |
+|  5 |  Tu, June 11                       | [Advanced Keras] |
+|  6 |  Th, June 13                      | [Graphical Models] |
+|  7 |  Tu, June 18                       | [Network Analysis] |
+|  8 |  Th, June 20                      | [GAN] |
+|  9 |  Tu, June 25                       | Seminars Pt 1 |
+| 10 |  Th, June 27                        | Final Exam |
+| 11 |  Tu, July 2                       | Seminars Pt 2 + Project Presentations |  
 
-[Lesson 1]: Lessons/Lesson1.md
-[Lesson 2]: Lessons/Lesson2.md
-[Lesson 3]: Lessons/Lesson3.md
-[Lesson 4]: Lessons/Lesson4.md
-[Lesson 5]: Lessons/Lesson5.md
-[Lesson 6]: Lessons/Lesson6.md
-[Lesson 7]: Lessons/Lesson7.md
-[Lesson 8]: Lessons/Lesson8.md
+[NLP Pt 1]: Notebooks/NLP/NLP_part1_part2.ipynb
+[NLP Pt 2]: Notebooks/NLP/NLP_part1_part2.ipynb
+[Intro to Recommender Systems]: Lessons/Lesson3.md
+[Deep Learning for Recommender Systems]: Lessons/Lesson4.md
+[Advanced Keras]: Lessons/Lesson5.md
+[Graphical Models]: Lessons/Lesson6.md
+[Network Analysis]: Lessons/Lesson7.md
+[GAN]: Lessons/Lesson8.md
 [Lesson 9]: Lessons/Lesson9.md
 [Lesson 10]: Lessons/Lesson10.md
 [Lesson 11]: Lessons/Lesson11.md
@@ -62,14 +62,18 @@ By the end of this course, you will be able to ...
 
 ## Class Assignments
 
-### Tutorials
+### Seminars
 
-- [Do Cool Stuff Tutorial]()
+You will complete individual comprehensive projects in one of the topic areas from class and present their findings in a seminar format.
+
+Specs/requirements for the seminars coming soon!
+
 
 ### Projects
 
-- [Project Template - Use to build your own project spec](https://docs.google.com/document/d/1j4ualsYjrd-7ePdyP3KU03xrpg41k1AoSU0YKkx9_I8/edit?usp=sharing)
-    -   [Sample Project Rubric](Sample_Rubric.md)
+You will complete individual comprehensive projects in one of the topic areas from class
+
+Rubric/spec for this coming soon!
 
 ## Evaluation
 To pass this course you must meet the following requirements:
