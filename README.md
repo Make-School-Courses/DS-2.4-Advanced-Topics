@@ -52,8 +52,8 @@ By the end of this course, you will be able to ...
 | 15 |   Wed, Dec 11             | Presentations  |
 
 
-[NLP Pt 1]: Notebooks/NLP/NLP_part1_part2.ipynb
-[NLP Pt 2]: Notebooks/NLP/NLP_part1_part2.ipynb
+[NLP Part 1]: Notebooks/NLP/NLP_part1_part2.ipynb
+[NLP Part 2]: Notebooks/NLP/NLP_part1_part2.ipynb
 [Intro to Recommender Systems]: Lessons/Lesson3.md
 [Deep Learning for Recommender Systems]: Lessons/Lesson4.md
 [Advanced Keras]: Lessons/Lesson5.md
