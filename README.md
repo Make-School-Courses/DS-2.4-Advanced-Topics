@@ -28,23 +28,29 @@ By the end of this course, you will be able to ...
 **NOTE:** Due to the shorter summer sessions, for some class sessions you will see multiple topics covered. This is to ensure that we cover the same material that we normally would in non-summer terms.
 
 
-**Course Dates:** Tuesday, May 28 – Tuesday, July 2, 2019 (6 weeks)
+**Course Dates:** Monday, October 21 – Wednesday, December 11, 2019 (8 weeks)
 
-**Class Times:** Tuesday and Thursday at 3:30–5:20pm (11 class sessions)
+**Class Times:** Monday and Wednesday at 3:30–5:20pm (14 class sessions)
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
-|  1 |  Tu, May 28                        | [NLP Pt 1] |
-|  2 |  Th, May 30                       | [NLP Pt 2] |
-|  3 |  Tu, June 4                        | [Intro to Recommender Systems] |
-|  4 |  Th, June 6                      | [Deep Learning for Recommender Systems] |
-|  5 |  Tu, June 11                       | [Advanced Keras] |
-|  6 |  Th, June 13                      | [Graphical Models] |
-|  7 |  Tu, June 18                       | [Network Analysis] |
-|  8 |  Th, June 20                      | [GAN] |
-|  9 |  Tu, June 25                       | Seminars Pt 1 |
-| 10 |  Th, June 27                        | Final Exam |
-| 11 |  Tu, July 2                       | Seminars Pt 2 + Project Presentations |  
+|  1 |   Mon, Oct 21             | [NLP Part 1] |
+|  2 |   Wed, Oct 23             | [NLP Part 2] |
+|  3 |   Mon, Oct 28             | [Intro to Recommender Systems] |
+|  4 |   Wed, Oct 30             | [Deep Learning for Recommender Systems] |
+|  5 |   Mon, Nov 4              | [Advanced Keras] |
+|  6 |   Wed, Nov 6              | [Graphical Models] |
+|  7 |   Mon, Nov 11             | [Network Analysis] |
+|  8 |   Wed, Nov 13             | [GAN] |
+|  9 |   Mon, Nov 18             | Seminars Part 1 |
+| 10 |   Wed, Nov 20             | Seminars Part 1 |  
+| 11 |   Mon, Nov 25             | [Review]|
+| -  |   Wed, Nov 27             | **NO CLASS** - Thanksgiving  |
+| 12 |   Mon, Dec 2              | [Seminars Part 2] |
+| 13 |   Wed, Dec 4              | [Seminars Part 1]  |
+| 14 |   Mon, Dec 9              | Final Exam  |
+| 15 |   Wed, Dec 11             | Presentations  |
+
 
 [NLP Pt 1]: Notebooks/NLP/NLP_part1_part2.ipynb
 [NLP Pt 2]: Notebooks/NLP/NLP_part1_part2.ipynb
