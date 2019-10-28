@@ -54,8 +54,8 @@ By the end of this course, you will be able to ...
 
 [NLP Part 1]: Notebooks/NLP/NLP_part1_part2.ipynb
 [NLP Part 2]: Notebooks/NLP/NLP_part1_part2.ipynb
-[Intro to Recommender Systems]: Lessons/Lesson3.md
-[Deep Learning for Recommender Systems]: Lessons/Lesson4.md
+[Intro to Recommender Systems]: Notebooks/Recommeder_System/RS_part1.ipynb
+[Deep Learning for Recommender Systems]: Notebooks/Recommeder_System/RS_part2.ipynb
 [Advanced Keras]: Lessons/Lesson5.md
 [Graphical Models]: Lessons/Lesson6.md
 [Network Analysis]: Lessons/Lesson7.md
