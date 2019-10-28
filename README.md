@@ -46,8 +46,8 @@ By the end of this course, you will be able to ...
 | 10 |   Wed, Nov 20             | Seminars Part 1 |  
 | 11 |   Mon, Nov 25             | [Review]|
 | -  |   Wed, Nov 27             | **NO CLASS** - Thanksgiving  |
-| 12 |   Mon, Dec 2              | [Seminars Part 2] |
-| 13 |   Wed, Dec 4              | [Seminars Part 1]  |
+| 12 |   Mon, Dec 2              | Seminars Part 2 |
+| 13 |   Wed, Dec 4              | Seminars Part 2  |
 | 14 |   Mon, Dec 9              | Final Exam  |
 | 15 |   Wed, Dec 11             | Presentations  |
 
