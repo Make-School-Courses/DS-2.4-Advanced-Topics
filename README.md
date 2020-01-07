@@ -25,32 +25,28 @@ By the end of this course, you will be able to ...
 
 ## Schedule
 
-**NOTE:** Due to the shorter summer sessions, for some class sessions you will see multiple topics covered. This is to ensure that we cover the same material that we normally would in non-summer terms.
 
 
-**Course Dates:** Monday, October 21 – Wednesday, December 11, 2019 (8 weeks)
+**Course Dates:** Monday, January 20 – Wednesday, March 4, 2020 (7 weeks)
 
-**Class Times:** Monday and Wednesday at 3:30–5:20pm (14 class sessions)
+**Class Times:** Monday and Wednesday at 9:30–12:15pm (13 class sessions)
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
-|  1 |   Mon, Oct 21             | [NLP Part 1] |
-|  2 |   Wed, Oct 23             | [NLP Part 2] |
-|  3 |   Mon, Oct 28             | [Intro to Recommender Systems] |
-|  4 |   Wed, Oct 30             | [Deep Learning for Recommender Systems] |
-|  5 |   Mon, Nov 4              | [Advanced Keras] |
-|  6 |   Wed, Nov 6              | [Graphical Models] |
-|  7 |   Mon, Nov 11             | [Network Analysis] |
-|  8 |   Wed, Nov 13             | [GAN] |
-|  9 |   Mon, Nov 18             | Seminars Part 1 |
-| 10 |   Wed, Nov 20             | Seminars Part 1 |  
-| 11 |   Mon, Nov 25             | [Review]|
-| -  |   Wed, Nov 27             | **NO CLASS** - Thanksgiving  |
-| 12 |   Mon, Dec 2              | Seminars Part 2 |
-| 13 |   Wed, Dec 4              | Seminars Part 2  |
-| 14 |   Mon, Dec 9              | Final Exam  |
-| 15 |   Wed, Dec 11             | Presentations  |
-
+|  - |  Mon, January 20               | **NO CLASS** - MLK Day |
+|  1 |  Wed, January 22               | [NLP Part 1] |
+|  2 |  Mon, January 27               | [NLP Part 2] |
+|  3 |  Wed, January 29               | [Intro to Recommender Systems] |
+|  4 |  Mon, February 3               | [Deep Learning for Recommender Systems] |
+|  5 |  Wed, February 5               | [Advanced Keras] |
+|  6 |  Mon, February 10              | [Graphical Models] |
+|  7 |  Wed, February 12              | [Network Analysis] |
+|  8 |  Mon, February 17              | [GAN] |
+|  9 |  Wed, February 19              | [Seminars Part 1] |
+| 10 |  Mon, February 24              | [Seminars Part 1]|  
+| 11 |  Wed, February 26              | [Seminars Part 2]|
+| 12 |  Mon, March 2                  | [Seminars Part 2] |
+| 13 |  Wed, March 4                  | Final Exam/Presentations |
 
 [NLP Part 1]: Notebooks/NLP/NLP_part1_part2.ipynb
 [NLP Part 2]: Notebooks/NLP/NLP_part1_part2.ipynb
