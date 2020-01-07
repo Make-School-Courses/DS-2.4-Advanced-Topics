@@ -21,7 +21,7 @@ By the end of this course, you will be able to ...
 1. Understand all components in NLP, including Bag-of-Word, TFIDF, Topic Modeling, Word2Vec
 1. Learn, build, and gain inference from a probabilistic graphical model
 1. Generate computer images from GANs
-1. Apply PageRank on a defined Network
+1. Apply PageRank on a defined Network in order to find the influencer
 
 ## Schedule
 
@@ -68,14 +68,29 @@ By the end of this course, you will be able to ...
 
 You will complete individual comprehensive projects in one of the topic areas from class and present their findings in a seminar format.
 
-Specs/requirements for the seminars coming soon!
+For Seminar 1:
+
+1- Each student pick a topic of his/her interest about advance DS topics:
+
+2- Each student study and explore that chosen DS topic and teach his/her understanding to the whole class by doing:
+         - What the problem is?
+         - What the model is to solve the problem?
+         - What the data-set is?
+         - How do transform the data in order to be appropriate for the model?
+
+For Seminar 2:
+3- Turn your chosen topic in Seminar 1 to implementation:
+         - Making the model better
+            or
+         - Compare the chosen methodology with another way of tackling the problem
+
 
 
 ### Projects
 
-You will complete individual comprehensive projects in one of the topic areas from class
+You will complete individual comprehensive projects in one of the topic areas from class.
 
-Rubric/spec for this coming soon!
+You will work on the Seminar 1 topic to make it your own Final Project which would be your DS portfolio also.
 
 ## Evaluation
 To pass this course you must meet the following requirements:
@@ -83,7 +98,7 @@ To pass this course you must meet the following requirements:
 - Complete all required assignments
 - Pass all projects according to the associated project rubric
 - Pass the final summative assessment according to the rubric as specified in this class
-    - This will be further explained in the [study guide](ADD_STUDY_GUIDE_LNK)
+    - This will be further explained in the [study guide](https://docs.google.com/document/d/1NVJzyp6DTTmFxXqkrQx5HYge4x05VQeEqYixbxrwLSo/edit?folder=13S244LW-5aUkecEvh6M9VbR18l45rZkx)
 - Actively participate in class and abide by the attendance policy
 - Make up all classwork from all absences
 
