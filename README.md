@@ -66,31 +66,36 @@ By the end of this course, you will be able to ...
 
 ### Seminars
 
-You will complete individual comprehensive projects in one of the topic areas from class and present their findings in a seminar format.
+You will complete individual comprehensive projects in one of the topic areas from class and present your findings in a seminar format.
 
-For Seminar 1:
+**For Seminar 1:**
 
-1- Each student pick a topic of his/her interest about advance DS topics:
+**1-** Each student will pick a topic of their interest about advanced DS topics:
 
-2- Each student study and explore that chosen DS topic and teach his/her understanding to the whole class by doing:
-         - What the problem is?
-         - What the model is to solve the problem?
-         - What the data-set is?
-         - How do transform the data in order to be appropriate for the model?
+**2-** Each student will study and explore that chosen DS topic and teach their understanding to the whole class by answering the following questions in their seminar:
 
-For Seminar 2:
-3- Turn your chosen topic in Seminar 1 to implementation:
-         - Making the model better
-            or
-         - Compare the chosen methodology with another way of tackling the problem
+- What is the problem?
+- What is the model used to solve the problem?
+- What is the data-set?
+- How do you transform the data in order to be appropriate for the model?
 
+**For Seminar 2:**
 
+**3-** Implemente your chosen topic from Seminar 1 by doing one of the following:
+
+- Making the existing model better
+
+**OR**
+
+- Compare the chosen methodology with another way of tackling the problem
+
+For either option, you will present your findings to the class.
 
 ### Projects
 
 You will complete individual comprehensive projects in one of the topic areas from class.
 
-You will work on the Seminar 1 topic to make it your own Final Project which would be your DS portfolio also.
+You will work on the Seminar 1 topic to make it your own Final Project which will be a part of your DS portfolio.
 
 ## Evaluation
 To pass this course you must meet the following requirements:
@@ -104,11 +109,11 @@ To pass this course you must meet the following requirements:
 
 ## Make School Course Policies
 
-- [Program Learning Outcomes](https://make.sc/program-learning-outcomes)
-- [Grading System](https://make.sc/grading-system)
-- [Diversity and Inclusion Statement](https://make.sc/diversity-and-inclusion-statement)
-- [Academic Honesty](https://make.sc/academic-honesty-policy)
-- [Attendance Policy](https://make.sc/attendance-policy)
-- [Course Credit Policy](https://make.sc/course-credit-policy)
-- [Disability Services (Academic Accommodations)](https://make.sc/disability-services)
-- [Student Handbook](https://make.sc/student-handbook)
+- [Program Learning Outcomes](https://make.sc/program-learning-outcomes) - What you will achieve after finishing Make School, all courses are designed around these outcomes.
+- [Grading System](https://make.sc/grading-system) - How grading is done at Make School
+- [Diversity and Inclusion Statement](https://make.sc/diversity-and-inclusion-statement) - Learn about Diversity and Inclusion at Make School
+- [Academic Honesty](https://make.sc/academic-honesty-policy) - Our policies around plagerism, cheating, and other forms of academic misconduct 
+- [Attendance Policy](https://make.sc/attendance-policy) - What we expect from you in terms of attendance for all classes at Make School
+- [Course Credit Policy](https://make.sc/course-credit-policy) - Our policy for how you obtain credit for your courses
+- [Disability Services (Academic Accommodations)](https://make.sc/disability-services) - Services and accommodations we provide for students
+- [Student Handbook](https://make.sc/student-handbook) - Guidelines, policies, and resources for all Make School students
