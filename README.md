@@ -12,6 +12,11 @@ All of the models and algorithms learning in this course, are extensively use th
 
 - [DS 2.2](https://github.com/Make-School-Courses/DS-2.2-Deep-Learning)
 
+## Course Specifics
+
+**Course Delivery**: online | 7 weeks | 14 sessions
+
+**Course Credits**: 3 units | 37.5 Seat Hours | 75 Total Hours
 
 ## Learning Outcomes
 
@@ -106,6 +111,12 @@ To pass this course you must meet the following requirements:
     - This will be further explained in the [study guide](https://docs.google.com/document/d/1NVJzyp6DTTmFxXqkrQx5HYge4x05VQeEqYixbxrwLSo/edit?folder=13S244LW-5aUkecEvh6M9VbR18l45rZkx)
 - Actively participate in class and abide by the attendance policy
 - Make up all classwork from all absences
+
+##  Information Resources
+
+Any additional resources you may need (online books, etc.) can be found here. You can also find additional resources through the library linked below:
+
+- [make.sc/library](http://make.sc/library)
 
 ## Make School Course Policies
 
