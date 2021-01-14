@@ -1,4 +1,4 @@
-# Advanced-Topics-In-Data-Science
+# DS 2.4: Advanced-Topics-In-Data-Science
 
 ## Course Description
 
@@ -29,8 +29,6 @@ By the end of this course, you will be able to ...
 1. Apply PageRank on a defined Network in order to find the influencer
 
 ## Schedule
-
-
 
 **Course Dates:** Monday, January 20 – Wednesday, March 4, 2020 (7 weeks)
 
