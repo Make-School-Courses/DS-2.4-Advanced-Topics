@@ -25,10 +25,10 @@ The models, algorithms and techniques highlighted in this course are extensively
 By the end of this course, you will be able to ...
 
 1. Describe and use Recommender Systems (RS) 
-1. Understand a variety of NLP concepts and methods, including Bag-of-Words, TF-IDF, Topic Modeling, Word2Vec
+1. Understand a variety of NLP concepts and methods, including Bag-of-Words, term frequency-inverse document frequency (TF-IDF), Topic Modeling, Word2Vec
 1. Build a Probabilistic Graphical Model and use it to perform inference 
 1. Understand Generative Adversarial Networks (GANs) and build a model that can generate images.
-1. Apply PageRank on a defined Network in order to find the Influencer
+1. Apply Google's PageRank algorithm on a defined Network in order to find the Influencer
 
 ## Schedule
 
