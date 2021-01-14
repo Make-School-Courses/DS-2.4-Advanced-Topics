@@ -46,7 +46,7 @@ By the end of this course, you will be able to ...
 |  5 |  Wed, Feb 3              | [Advanced Keras] |
 |  6 |  Mon, Feb 8            | [Graphical Models] |
 |  7 |  Wed, Feb 10             | [Network Analysis] |
-|  8 |  Mon, Feb 15             | [GAN] |
+|  8 |  Mon, Feb 15             | [GANs] |
 |  9 |  Wed, Feb 17            | [Seminars Part 1] |
 | 10 |  Mon, Feb 22             | [Seminars Part 1]|
 | 11 |  Wed, Feb 24            | [Seminars Part 2]|
@@ -60,7 +60,7 @@ By the end of this course, you will be able to ...
 [Advanced Keras]: Lessons/Lesson5.md
 [Graphical Models]: Lessons/Lesson6.md
 [Network Analysis]: Lessons/Lesson7.md
-[GAN]: Lessons/Lesson8.md
+[GANs]: Lessons/Lesson8.md
 [Lesson 9]: Lessons/Lesson9.md
 [Lesson 10]: Lessons/Lesson10.md
 [Lesson 11]: Lessons/Lesson11.md
