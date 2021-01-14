@@ -32,26 +32,26 @@ By the end of this course, you will be able to ...
 
 ## Schedule
 
-**Course Dates:** Monday, January 20 – Wednesday, March 4, 2021 (7 weeks)
+**Course Dates:** Wednesday, January 20 – Wednesday, March 3, 2021 (7 weeks)
 
 **Class Times:** Monday and Wednesday at 9:30–12:15pm (13 class sessions)
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
-|  - |  Mon, January 20               | **NO CLASS** - MLK Day |
-|  1 |  Wed, January 22               | [NLP Part 1] |
-|  2 |  Mon, January 27               | [NLP Part 2] |
-|  3 |  Wed, January 29               | [Introduction to Recommender Systems] |
-|  4 |  Mon, February 3               | [Deep Learning for Recommender Systems] |
-|  5 |  Wed, February 5               | [Advanced Keras] |
-|  6 |  Mon, February 10              | [Graphical Models] |
-|  7 |  Wed, February 12              | [Network Analysis] |
-|  8 |  Mon, February 17              | [GAN] |
-|  9 |  Wed, February 19              | [Seminars Part 1] |
-| 10 |  Mon, February 24              | [Seminars Part 1]|
-| 11 |  Wed, February 26              | [Seminars Part 2]|
-| 12 |  Mon, March 2                  | [Seminars Part 2] |
-| 13 |  Wed, March 4                  | Final Exam/Presentations |
+|  - |  Mon, Jan 18        | **NO CLASS** - MLK Day |
+|  1 |  Wed, Jan 20            | [NLP Part 1] |
+|  2 |  Mon, Jan 25              | [NLP Part 2] |
+|  3 |  Wed, Jan 27              | [Introduction to Recommender Systems] |
+|  4 |  Mon, Feb 1              | [Deep Learning for Recommender Systems] |
+|  5 |  Wed, Feb 3              | [Advanced Keras] |
+|  6 |  Mon, Feb 8            | [Graphical Models] |
+|  7 |  Wed, Feb 10             | [Network Analysis] |
+|  8 |  Mon, Feb 15             | [GAN] |
+|  9 |  Wed, Feb 17            | [Seminars Part 1] |
+| 10 |  Mon, Feb 22             | [Seminars Part 1]|
+| 11 |  Wed, Feb 24            | [Seminars Part 2]|
+| 12 |  Mon, Mar 1                 | [Seminars Part 2] |
+| 13 |  Wed, Mar 3                 | Final Exam/Presentations |
 
 [NLP Part 1]: Notebooks/NLP/NLP_part1_part2.ipynb
 [NLP Part 2]: Notebooks/NLP/NLP_part1_part2.ipynb
