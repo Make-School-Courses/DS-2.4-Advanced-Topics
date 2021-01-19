@@ -2,7 +2,7 @@
 
 ## Course Description
 
-This course covers popular advanced machine learning and deep learning concepts including Recommender Systems (RS), Bayesian networks, Probabilistic Graphical Models, Natural Language Processing (NLP), LSTM (Long Short-Term Memory) neural networks, Generative Adversarial Networks (GANs), and advanced computer vision techniques such as U-Nets. Students will complete individual comprehensive projects in one of these topic areas and present their findings to the class in a seminar format. 
+This course covers popular advanced machine learning and deep learning concepts including Recommender Systems (RS) and Deep RS, Bayesian networks, Probabilistic Graphical Models, Natural Language Processing (NLP), LSTM (Long Short-Term Memory) neural networks, Generative Adversarial Networks (GANs), and advanced computer vision techniques such as U-Nets. Students will complete individual comprehensive projects in one of these topic areas and present their findings to the class in a seminar format. 
 
 ### Why you should know this
 
