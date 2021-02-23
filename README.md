@@ -71,6 +71,7 @@ If you have a disability that needs an accommodation such as extended time or a 
 To pass this course you must meet the following requirements:
 
 * Complete 4 of the 5 homework assignments with a grade of 70% or higher
+* The Extra Credit Assignment can replace one missed assignment
 * Actively participate in class and abide by the attendance policy
 
 
