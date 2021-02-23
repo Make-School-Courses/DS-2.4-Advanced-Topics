@@ -40,13 +40,13 @@ By the end of this course, you will be able to ...
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
 |  - |  Mon, Jan 18        | **NO CLASS** - MLK Day |
-|  1 |  Wed, Jan 20            | [Text Classification using a Language Model] (https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/keras/text_classification.ipynb)|
+|  1 |  Wed, Jan 20            | [Text Classification using a Language Model](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/keras/text_classification.ipynb)|
 |  2 |  Mon, Jan 25              | [Introduction to Artificial Neural Networks with Keras, part 1](https://docs.google.com/presentation/d/1z4gfSISX9jASdRR1G8tfCvYkAam1FjIYlQeX_mtTTro/edit?usp=sharing) |
-|  3 |  Wed, Jan 27              | [Introduction to Artificial Neural Networks with Keras, part 1](https://docs.google.com/presentation/d/19pNyNsCt_8vUOfTixg5e0kOrCk-3jC9aFuXROHsen1w/edit?usp=sharing) |
-|  4 |  Mon, Feb 1              | [Introduction to Artificial Neural Networks with Keras Part 3] (https://docs.google.com/presentation/d/1S2DkFPKODdq8_hTp8DSjSS4s6fs2WL1BnrGhPYp8BdI/edit?usp=sharing)|
+|  3 |  Wed, Jan 27              | [Introduction to Artificial Neural Networks with Keras, part 2](https://docs.google.com/presentation/d/19pNyNsCt_8vUOfTixg5e0kOrCk-3jC9aFuXROHsen1w/edit?usp=sharing) |
+|  4 |  Mon, Feb 1              | [Introduction to Artificial Neural Networks with Keras Part 3](https://docs.google.com/presentation/d/1S2DkFPKODdq8_hTp8DSjSS4s6fs2WL1BnrGhPYp8BdI/edit?usp=sharing)|
 |  5 |  Wed, Feb 3              | [Training Deep Neural Networks](https://docs.google.com/presentation/d/1UKKkJsXnA5GmJmbcDc5d2-ttobPc-OX_DTCk2hdgZ-Y/edit?usp=sharing) |
 |  6 |  Mon, Feb 8            | [Custom Models and Training with TensorFlow](https://docs.google.com/presentation/d/1Ksi_zDhY66jJ2T4YL4N7-bxcu9W-NCHK2viOKij0DAU/edit?usp=sharing) |
-|  7 |  Wed, Feb 10             | [Loading and Preprocessing Data with TensorFlow] (https://docs.google.com/presentation/d/1bY3hz-BNudBu20e54kl7aIDXWkp2-66Vd5_cU8Rtpes/edit?usp=sharing)|
+|  7 |  Wed, Feb 10             | [Loading and Preprocessing Data with TensorFlow](https://docs.google.com/presentation/d/1bY3hz-BNudBu20e54kl7aIDXWkp2-66Vd5_cU8Rtpes/edit?usp=sharing)|
 |  8 |  Mon, Feb 15             | [Deep Computer Vision Using Convolutional Neural Networks, Part 1](https://docs.google.com/presentation/d/1C-UCZbLEe7uv4_-FliUw9Ba8dqjveuZi9iOdjB4j_ck/edit?usp=sharing) |
 |  9 |  Wed, Feb 17            | [Deep Computer Vision Using Convolutional Neural Networks, Part 2](https://docs.google.com/presentation/d/1uKvKHvpW20yfdozCv1qPmh5oebtHKFeLqakbemxqExY/edit?usp=sharing) |
 | 10 |  Mon, Feb 22             | [Deep Computer Vision Using Convolutional Neural Networks, Part 3](https://docs.google.com/presentation/d/1ikCZdblB1S900kPaiud-ZAnyeGMqrkQt5PmvseAdKPc/edit?usp=sharing)|
