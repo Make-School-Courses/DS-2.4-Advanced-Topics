@@ -33,20 +33,20 @@ By the end of this course, you will be able to ...
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
-|  - |  Mon, January 20               | **NO CLASS** - MLK Day |
-|  1 |  Wed, January 22               | [NLP Part 1] |
-|  2 |  Mon, January 27               | [NLP Part 2] |
-|  3 |  Wed, January 29               | [Intro to Recommender Systems] |
-|  4 |  Mon, February 3               | [Deep Learning for Recommender Systems] |
-|  5 |  Wed, February 5               | [Advanced Keras] |
-|  6 |  Mon, February 10              | [Graphical Models] |
-|  7 |  Wed, February 12              | [Network Analysis] |
-|  8 |  Mon, February 17              | [GAN] |
-|  9 |  Wed, February 19              | [Seminars Part 1] |
-| 10 |  Mon, February 24              | [Seminars Part 1]|  
-| 11 |  Wed, February 26              | [Seminars Part 2]|
-| 12 |  Mon, March 2                  | [Seminars Part 2] |
-| 13 |  Wed, March 4                  | Final Exam/Presentations |
+|  - |  Mon, October 18               | [NLP Part 1] |
+|  1 |  Wed, October 20               | [NLP Part 1] |
+|  2 |  Fri, October 22               | Lab Day |
+|  3 |  Wed, October 25               | [Intro to Recommender Systems] |
+|  4 |  Mon, October 27               | [Deep Learning for Recommender Systems] |
+|  5 |  Wed, October 29               | [Advanced Keras] |
+|  6 |  Mon, November 1              | [Graphical Models] |
+|  7 |  Wed, November 3              | [Network Analysis] |
+|  8 |  Mon, November 5              | [GAN] |
+|  9 |  Wed, November 8              | [Seminars Part 1] |
+| 10 |  Mon, November 10              | [Seminars Part 1]|  
+| 11 |  Wed, November 12              | [Seminars Part 2]|
+| 12 |  Mon, November 15                  | [Seminars Part 2] |
+| 13 |  Mon, November 17                | Final Exam/Presentations |
 
 [NLP Part 1]: Notebooks/NLP/NLP_part1_part2.ipynb
 [NLP Part 2]: Notebooks/NLP/NLP_part1_part2.ipynb
